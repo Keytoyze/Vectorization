@@ -58,3 +58,17 @@ python3 main.py \
     --output_dir=./tmp/model/output/ \
     --setting_file=./config/vector_trust.json
 ```
+
+## Citation
+
+Please consider citing the following paper when using our code for your application.
+
+```bibtex
+@inproceedings{chen2022scalar,
+  title={Scalar is Not Enough: Vectorization-based Unbiased Learning to Rank},
+  author={Mouxiang Chen and Chenghao Liu and Zemin Liu and Jianling Sun},
+  booktitle={Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  year={2022}
+}
+```
+
