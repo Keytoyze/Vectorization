@@ -1,5 +1,7 @@
 # Vectorization
 
+**News: Our codes has been merged into ULTRA framework (https://github.com/ULTR-Community/ULTRA).**
+
 This project is based on ULTRA (https://github.com/ULTR-Community/ULTRA). Please see its document for more details.
 
 Our main code is in `ultra/learning_algorithm/vectorization.py`.
