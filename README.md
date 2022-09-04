@@ -1,6 +1,6 @@
 # Vectorization
 
-**News: Our codes has been merged into ULTRA framework (https://github.com/ULTR-Community/ULTRA).**
+**News: Our codes have been merged into ULTRA framework (https://github.com/ULTR-Community/ULTRA).**
 
 This project is based on ULTRA (https://github.com/ULTR-Community/ULTRA). Please see its document for more details.
 
